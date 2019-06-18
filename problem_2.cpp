@@ -61,7 +61,7 @@ void game() {
 	    
 	    else 
 	    array[i]=arr[i]+array[i-1];
-	    cout<<array[i]<<"\t";
+	    
 	}
 	
 	
